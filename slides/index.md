@@ -1,10 +1,5 @@
 
-# ggbridge
 
-From the terminal, pop in:
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+## Do we need suicide nets
+## on the Golden Gate Bridge?
